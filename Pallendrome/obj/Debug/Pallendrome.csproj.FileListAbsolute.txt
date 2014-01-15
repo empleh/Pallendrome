@@ -1,0 +1,5 @@
+C:\Users\cpeters\AppData\Local\Temporary Projects\Pallendrome\obj\Debug\Pallendrome.csprojResolveAssemblyReference.cache
+C:\Users\cpeters\AppData\Local\Temporary Projects\Pallendrome\bin\Debug\Pallendrome.dll
+C:\Users\cpeters\AppData\Local\Temporary Projects\Pallendrome\bin\Debug\Pallendrome.pdb
+C:\Users\cpeters\AppData\Local\Temporary Projects\Pallendrome\obj\Debug\Pallendrome.dll
+C:\Users\cpeters\AppData\Local\Temporary Projects\Pallendrome\obj\Debug\Pallendrome.pdb
